@@ -12,60 +12,60 @@
 ### Отримати всіх користувачів
 
 #### Запит:
-![](./photos/get all roles.png)
+![](./photos/get_all_roles.png)
 
 #### Результат:
-![](./photos/get all roles result.png)
+![](./photos/get_all_roles_result.png)
 
 ### Отримати користувача по id
 
 #### Запит:
-![](./photos/get role id.png)
+![](./photos/get_role_id.png)
 
 #### Результат:
-![](./photos/get role id result.png)
+![](./photos/get_role_id_result.png)
 
 ## Тестування POST
 
 ### Додати користувача
 
 #### Запит:
-![](./photos/add role.png)
+![](./photos/add_role.png)
 
 #### Результат:
-![](./photos/add role result.png)
+![](./photos/add_role_result.png)
 
 #### Перевірка за допомогою GET:
-![](./photos/get role id5.png)
+![](./photos/get_role_id5.png)
 
-![](./photos/get role id5 result.png)
+![](./photos/get_role_id5_result.png)
 
 ## Тестування PUT
 
 ### Змінити користувача по id
 
 #### Запит:
-![](./photos/update role.png)
+![](./photos/update_role.png)
 
 #### Результат:
-![](./photos/update role result.png)
+![](./photos/update_role_result.png)
 
 #### Перевірка за допомогою GET:
-![](./photos/get role id5.png)
+![](./photos/get_role_id5.png)
 
-![](./photos/get role id5 result.png)
+![](./photos/get_role_id5_result.png)
 
 ## Тестування DELETE
 
 ### Видалити користувача по id
 
 #### Запит:
-![](./photos/delete role.png)
+![](./photos/delete_role.png)
 
 #### Результат:
-![](./photos/delete role result.png)
+![](./photos/delete_role_result.png)
 
 #### Перевірка за допомогою GET:
-![](./photos/get all roles after delete.png)
+![](./photos/get_all_roles_after_delete.png)
 
-![](./photos/get all roles after delete result.png)
+![](./photos/get_all_roles_after_delete_result.png)
